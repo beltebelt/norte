@@ -1,0 +1,30 @@
+<div class="container">
+    <div class="section-title">
+        <h2>Our Services</h2>
+        <p>Comprehensive testing and development solutions for your applications</p>
+    </div>
+    {{- with site.Params.services }}
+    <div class="services-grid">
+        {{- range site.Params.services }}
+        <div class="post-entry">
+            <div class="icon-wrapper">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                    stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M18 10h-4V6" />
+                    <path d="M22 10h-4" />
+                    <path d="M6 10H2" />
+                    <path d="M10 10H6" />
+                    <rect x="2" y="2" width="20" height="8" rx="2" />
+                    <rect x="2" y="14" width="20" height="8" rx="2" />
+                    <path d="M6 18h4" />
+                </svg>
+            </div>
+            <h3>{{ .Title }}</h3>
+            <p>{{ .Content }}</p>
+            <a href="#" class="learn-more">Learn More →</a>
+        </div>
+        {{- end -}}
+    </div>
+    {{- end -}}
+</div>
+</div>

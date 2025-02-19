@@ -6,14 +6,14 @@
     <description>Recent content on Norte</description>
     <generator>Hugo -- 0.144.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/norte/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Code Syntax Guide</title>
-      <link>http://localhost:1313/norte/posts/sample_post/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/norte/posts/sample_post/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+      <title>How To Mock APIs In Seconds</title>
+      <link>http://localhost:1313/norte/posts/mock-apis/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/norte/posts/mock-apis/</guid>
+      <description>HTTP Mocks or Stubs, are replacements for your actual APIs, which can be used for testing purposes. </description>
     </item>
     <item>
       <title></title>
