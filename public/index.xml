@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Norte</title>
-    <link>http://localhost:1313/norte/</link>
+    <link>https://beltebelt.github.io/norte/</link>
     <description>Recent content on Norte</description>
     <generator>Hugo -- 0.144.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/norte/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://beltebelt.github.io/norte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Mock APIs In Seconds</title>
-      <link>http://localhost:1313/norte/posts/mock-apis/</link>
+      <link>https://beltebelt.github.io/norte/posts/mock-apis/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/norte/posts/mock-apis/</guid>
+      <guid>https://beltebelt.github.io/norte/posts/mock-apis/</guid>
       <description>HTTP Mocks or Stubs, are replacements for your actual APIs, which can be used for testing purposes. </description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/norte/contact/</link>
+      <link>https://beltebelt.github.io/norte/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/norte/contact/</guid>
+      <guid>https://beltebelt.github.io/norte/contact/</guid>
       <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
 &lt;p&gt;We help startups and enterprises build robust, scalable, and bug-free applications by providing top-tier software testing and observability solutions. From functional testing, performance testing to CI/CD implementation, we ensure your software meets the highest quality standards.&lt;/p&gt;
 &lt;h4 id=&#34;want-to-enhance-your-software-quality-and-speed-up-delivery-lets-discuss-how-we-can-help&#34;&gt;Want to enhance your software quality and speed up delivery? Let’s discuss how we can help.&lt;/h4&gt;
@@ -32,25 +32,9 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/norte/services/</link>
+      <link>https://beltebelt.github.io/norte/why-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/norte/services/</guid>
-      <description>&lt;h1 id=&#34;our-services&#34;&gt;Our Services&lt;/h1&gt;
-&lt;h3 id=&#34;-functional-testing-uiapi&#34;&gt;✅ Functional Testing (UI/API)&lt;/h3&gt;
-&lt;p&gt;A seamless user experience starts with rigorous functional testing. We ensure your application behaves exactly as expected—whether it’s a web app or API.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;UI Testing: We validate user interface components, interactions, and responsiveness across different devices and browsers.&lt;/li&gt;
-&lt;li&gt;API Testing: We verify API responses, performance, and security to ensure seamless backend interactions.&lt;/li&gt;
-&lt;li&gt;Automation Testing: All our tests are automated using the leading open source softwares for faster, more reliable results.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-performance-testing&#34;&gt;✅ Performance Testing&lt;/h3&gt;
-&lt;p&gt;Speed, scalability, and stability—your app needs all three. We simulate real-world traffic conditions to uncover potential bottlenecks before they impact users.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/norte/why-us/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/norte/why-us/</guid>
+      <guid>https://beltebelt.github.io/norte/why-us/</guid>
       <description>&lt;h1 id=&#34;why-us&#34;&gt;Why Us?&lt;/h1&gt;</description>
     </item>
   </channel>

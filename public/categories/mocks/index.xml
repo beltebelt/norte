@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mocks on Norte</title>
-    <link>http://localhost:1313/norte/categories/mocks/</link>
+    <link>https://beltebelt.github.io/norte/categories/mocks/</link>
     <description>Recent content in Mocks on Norte</description>
     <generator>Hugo -- 0.144.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/norte/categories/mocks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://beltebelt.github.io/norte/categories/mocks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Mock APIs In Seconds</title>
-      <link>http://localhost:1313/norte/posts/mock-apis/</link>
+      <link>https://beltebelt.github.io/norte/posts/mock-apis/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/norte/posts/mock-apis/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+      <guid>https://beltebelt.github.io/norte/posts/mock-apis/</guid>
+      <description>HTTP Mocks or Stubs, are replacements for your actual APIs, which can be used for testing purposes. </description>
     </item>
   </channel>
 </rss>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Norte</title>
-    <link>http://localhost:1313/norte/tags/</link>
+    <link>https://beltebelt.github.io/norte/tags/</link>
     <description>Recent content in Tags on Norte</description>
     <generator>Hugo -- 0.144.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/norte/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://beltebelt.github.io/norte/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Code</title>
-      <link>http://localhost:1313/norte/tags/code/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/norte/tags/code/</guid>
+      <title>Javascript</title>
+      <link>https://beltebelt.github.io/norte/tags/javascript/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://beltebelt.github.io/norte/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
-      <title>Gist</title>
-      <link>http://localhost:1313/norte/tags/gist/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/norte/tags/gist/</guid>
+      <title>Mocks</title>
+      <link>https://beltebelt.github.io/norte/tags/mocks/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://beltebelt.github.io/norte/tags/mocks/</guid>
       <description></description>
     </item>
     <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/norte/tags/markdown/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/norte/tags/markdown/</guid>
+      <title>Prototyping</title>
+      <link>https://beltebelt.github.io/norte/tags/prototyping/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://beltebelt.github.io/norte/tags/prototyping/</guid>
       <description></description>
     </item>
     <item>
-      <title>Syntax</title>
-      <link>http://localhost:1313/norte/tags/syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/norte/tags/syntax/</guid>
+      <title>Tooling</title>
+      <link>https://beltebelt.github.io/norte/tags/tooling/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://beltebelt.github.io/norte/tags/tooling/</guid>
       <description></description>
     </item>
   </channel>
