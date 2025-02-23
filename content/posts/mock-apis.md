@@ -62,4 +62,4 @@ And you are done, navigate to http://localhost:8080/hello/world, to see your moc
 
 There are already a lot of mocking tools already available like Wiremock, mountebank etc. And those are really great tools, but in my experience, it took me sometime to familiarise myself with the tool, their JSON schema and other available options. The problem statement Camouflage tries to tackle is simple, how to shorten the learning curve and get started with mocks creation within seconds.
 
-**Are you working on prototyping your app? Do you want to starting testing it and you are worried that not all your services are ready? [Talk to us](https://cal.com/shubhendumadhukar) about how you can start early testing without waiting for everything to be ready.**
+**Are you working on prototyping your app? Do you want to starting testing it and you are worried that not all your services are ready? [Talk to us](https://cal.com/utsuk-labs) about how you can start early testing without waiting for everything to be ready.**
