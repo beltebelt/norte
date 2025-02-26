@@ -1,6 +1,6 @@
 baseURL: https://beltebelt.github.io/norte
 languageCode: en-us
-title: Norte
+title: UtsukLabs
 theme: ["PaperMod"]
 mainsections: ["posts"]
 markup:
